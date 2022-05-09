@@ -12,11 +12,21 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Catila
-## Aumente a produtividade baixando Catila
-### Header 3
+é um software que permite o acesso remoto, compartilhamento de arquivos e tela entre os dispositivos. 
+De modos a aumentar a produtividade do usuário. 
 
-- Bulleted
-- List
+## Como usar Catila
+O primeiro passo para usar Catila
+é por conectar Catila versão Desktop e Catila 
+Versão Mobile na mesma rede.
+
+### Os dispositivos (Desktop  e Mobile) já estão na mesma Rede Wifi 
+Neste caso para usar Catila 
+siga os passos seguintes:
+
+1. Abra Catila no seu computador.
+
+2. Na janela inicial clique no botão 
 
 1. Numbered
 2. List
